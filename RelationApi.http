@@ -1,0 +1,6 @@
+@RelationApi_HostAddress = http://localhost:5154
+
+GET {{RelationApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
